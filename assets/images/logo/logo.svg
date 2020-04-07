@@ -1,8 +1,16 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="24px" height="24px" viewBox="0 0 24 24">
-<style type="text/css">
-	.st0{fill:#515151;}
-</style>
-<path class="st0" d="M1.7,22.3c5.7-5.7,11.3-5.7,17,0c3.3-3.3,3.5-5.3,0.8-6c2.7,0.7,3.5-1.1,2.3-5.6s-3.3-5.2-6.3-2.1
-	c3-3,2.3-5.2-2.1-6.3S7,1.8,7.7,4.6C7,1.8,5,2.1,1.7,5.3C7.3,11,7.3,16.7,1.7,22.3"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+ x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">  
+<image id="image0" width="24" height="24" x="0" y="0"
+href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAAAAADFHGIkAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPo
+AAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAHdElNRQfkBAgDLCkI8DCAAAACPElEQVQozy
+VRXUhTARg98/7t3rm7uzVnmRQLijCMsJISBOshqJfIlx7K0IX1EvQQJAohkW/5VvhiRFTUkhGhFWH5kNaIZYZG+DP6WblpbW5u3ql3u/d+3dn39HHO+c754
+EDxSj4o5ZLDW+bd7Kz0KXW2Tdtkrx9w8ai2o0LhZMXNe5x+jyxhh8LA4ZSdTKW4db/gEN02SWLstVfqIbjB7LrcUlUtiecaOPhYThbEI+MzNXCg7NBYZ19b
+g9LeuwflEi+4bRe/0ROBh1D74/GjF+Fgy7sOFpIEIJBSc4ftwJb0Utd7nbrfDMpgLaK87SvRMUDkI7HR2FD3y/5wBQOew97Ig0zCJeIo12LO9+yM3RP7DoI
+TynAyE/1+ByzuCtUDFG0fDck3GhnYOJzVl3NNPHD7FPriFFvKttafdzQC22+RGoIIXB8582l8mYimDvTUXvBXnZ6k6D5AwKsZNaVptKbTpdb+qx11Tw0z3s
+TChVwiV7T0VKBgIPtwuDlPhj7MsADRLKXXTVqjzLPs5+nnhrq6mj/hZqHmiFZIJ5o3J/O0rlqbXpg73gw9n06rhuVl0GxO/29Kf8YGoRe1VVXNr5FKC5MWt
+EIbY6AkzicT8elrEfpgva1T8a9Ov4Y2CC0dj9Fg0PhIlPi5UKRsbw0D0zTJ1LLJFL1NL2pfJgYKaqcLdhlmsWBFGusJWixMhe933Qzstgs874ZpGGYpTfs9
+9zqcCTU4rYokxeFECTWsm2JSnaARj1UpC0Hi7f8ArNQ5sx5aBYQAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDQtMDdUMTk6NDQ6NDErMDg6MDBcLIaiAAA
+AJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTA0LTA3VDE5OjQ0OjQxKzA4OjAwLXE+HgAAAABJRU5ErkJggg==" />
 </svg>
