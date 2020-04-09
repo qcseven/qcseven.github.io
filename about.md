@@ -26,5 +26,7 @@ titles:
 key: page-about
 ---
 
-#### 
+#### <center>一只学弱狗</center>
+#### <center>正在成为大佬的道路上奋力挣扎！</center>
+#### <center>就在这里记录一切吧！</center>
 
