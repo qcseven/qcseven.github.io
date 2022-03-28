@@ -5,8 +5,8 @@
     
     <entry>
       <title>使用 Github Action 实现全自动部署</title>
-      <link href="/2022/03/25/%E4%BD%BF%E7%94%A8Github-Action%E5%AE%9E%E7%8E%B0%E5%85%A8%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2/"/>
-      <url>/2022/03/25/%E4%BD%BF%E7%94%A8Github-Action%E5%AE%9E%E7%8E%B0%E5%85%A8%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2/</url>
+      <link href="/2020/10/25/%E4%BD%BF%E7%94%A8Github-Action%E5%AE%9E%E7%8E%B0%E5%85%A8%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2/"/>
+      <url>/2020/10/25/%E4%BD%BF%E7%94%A8Github-Action%E5%AE%9E%E7%8E%B0%E5%85%A8%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2/</url>
       
         <content type="html"><![CDATA[<h2 id="Github-Action-简介"><a href="#Github-Action-简介" class="headerlink" title="Github Action 简介"></a>Github Action 简介</h2><p><a href="https://github.com/features/actions">Github Action</a> 是 GitHub 于 2018 年 10 月推出的一个 CI\CD 服务。</p><blockquote><p>CI\CD 其实说的是三件事情：「持续集成（<code>Continuous Integration</code>）」、「持续交付（<code>Continuous Delivery</code>）」、「持续部署（<code>Continuous Deployment</code>）」。<br>因为「持续交付」和「持续部署」的英文缩写是一样的，所以这三件事情缩写成了 <code>CI\CD</code> 。</p></blockquote><p>每次部署 <code>Hexo</code> 都需要运行指令三件套，随着文章越来越多，编译的时间也随之越来越长，通过 <code>Github Action</code>，我们只需要在每次完成博客的编写或修改以后，将改动直接 <code>push</code> 到远程仓库，之后的编译部署的工作统统交给 <code>CI</code> 来完成即可。</p><h2 id="教程常量声明"><a href="#教程常量声明" class="headerlink" title="教程常量声明"></a>教程常量声明</h2>]]></content>
       
