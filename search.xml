@@ -5,8 +5,8 @@
     
     <entry>
       <title></title>
-      <link href="/2022/04/08/Python/"/>
-      <url>/2022/04/08/Python/</url>
+      <link href="/2022/04/09/Python/"/>
+      <url>/2022/04/09/Python/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -18,8 +18,8 @@
     
     <entry>
       <title></title>
-      <link href="/2022/04/08/npm%E5%9B%BE%E5%BA%8A/"/>
-      <url>/2022/04/08/npm%E5%9B%BE%E5%BA%8A/</url>
+      <link href="/2022/04/09/npm%E5%9B%BE%E5%BA%8A/"/>
+      <url>/2022/04/09/npm%E5%9B%BE%E5%BA%8A/</url>
       
         <content type="html"><![CDATA[<h2 id="Picgo-或者-Picx-配置方案"><a href="#Picgo-或者-Picx-配置方案" class="headerlink" title="Picgo 或者 Picx 配置方案"></a>Picgo 或者 Picx 配置方案</h2><p>这一步是为了实现图片上传至 Github 仓库。</p><blockquote><ol><li>GitHub 图床仓库大小不能超过 1G。因为 GitHub 原则上是反对仓库图床化的，当仓库超过1G 后会有人工审核仓库内容，如果发现用来做图床，轻则删库重则封号。需注意。</li><li>因为 jsDelivr 加速的单文件大小为 50M。这也就限制了单张图片大小上限。</li></ol></blockquote><ul><li>Picgo<ol><li>首先创建一个图床仓库用来存放图片，仓库名随意。以下会以 <code>[AssetsRepo]</code> 指代这个静态资源仓库。</li></ol></li><li></li></ul>]]></content>
       
